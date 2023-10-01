@@ -1,0 +1,77 @@
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffff;
+}
+.img-top{
+    width:65px;
+    height: 65px;
+}
+h2{
+    margin-left: 620px;
+    margin-top: 55px;
+}
+hr{
+    margin-bottom: 30px;
+    width:30%; 
+    text-align:center; 
+    margin-left:520px; 
+
+    background-color: black;
+    border-radius: 8px;
+    opacity:80%;
+}
+h1{
+    margin-top: 55px;
+    margin-left: 670px;
+}
+.logo{
+    height: 300px;
+    width: 550px;
+    margin-left:180px;
+    margin-top:150px;
+}
+.txt{
+    display:flex;
+}
+.para{
+    font-size: 20px;
+}
+.txtbox{
+    margin-left:60px;
+    margin-top:140px;
+}
+h4{
+    margin-bottom: 40px;
+}
+.fa {
+    padding: 5px;
+    font-size: 20px;
+    width: 30px;
+    height:30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10%;
+  }
+  
+.fa:hover {
+    opacity: 0.9;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+h3{
+    margin-top: 55px;
+    margin-left: 700px;
+}
+.link{
+    text-decoration: none;
+}
+.btn1{
+    margin-left: 86%;
+    margin-bottom: 20px;
+}
+.btnop{
+    width: 100px;
+    
+}

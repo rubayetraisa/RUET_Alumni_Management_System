@@ -1,0 +1,50 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #ffff;
+}
+.upbtn{
+    margin-left: 200px;
+    margin-top: 25px;
+}
+.image{
+    margin-top:50px;
+    margin-left: 200px;
+}
+.image img{
+    margin-left: 50px;
+} 
+.r1{
+    margin-top: 50px;
+    /* height: 1300px; */
+}
+.card-img-top{
+    height:180px;
+    width:180px;
+    border-radius: 50%;
+    border: 8px solid #DCDCDC;
+}
+
+.files
+{
+    margin-top: 0px;
+}
+#image{
+    transform: translateY(30px);
+    opacity:0;
+}
+body{
+    height: 100vh;
+}
+img{
+ height:900px;
+ width: 400px;
+ 
+}
+.c-item{
+    height:500px;
+    width:1600px;
+}
+.c-img{
+    height:500px;
+    width:1600px;
+}
+

@@ -1,0 +1,86 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #ffff;
+}
+/* .bdy{
+    width: 1400px;
+} */
+hr{
+    margin-bottom: 30px;
+    width:30%; 
+    text-align:center; 
+    margin-left:520px; 
+
+    background-color: black;
+    border-radius: 8px;
+    opacity:80%;
+}
+.cont{
+    width: 1350px;
+}
+.btn1{
+    margin-left: 96%;
+}
+.newbtn{
+    width: 150px;
+    margin-bottom: 20px;
+}
+h3{
+    margin-top: 55px;
+    margin-left: 700px;
+}
+.t{
+    margin-left: 90px;
+    width: 1400px;
+}
+.container{
+    margin-top:20px;
+
+}
+.form-label{
+    color:black;
+    font-size: large;
+}
+.forum{
+    margin-top: 55px;
+    margin-left: 700px;
+}
+.fline{
+    margin-bottom: 30px;
+    width:20%; 
+    margin-left:580px; 
+
+    background-color: black;
+    border-radius: 8px;
+    opacity:80%;
+}
+.f1{
+    height:700px;
+}
+.r1{
+    height:550px;
+}
+.form-control{
+    border-width: 2px;
+    border-color: black;
+    margin-bottom: 0;
+}
+.pst{  
+    margin-left: 150px;
+}
+.btnop{
+    width: 100px;
+    
+}
+.heading{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+}
+.updt{
+    margin-top: 20px;
+    margin-left:170px;
+}
+.dt{
+    width: 800px;
+}
